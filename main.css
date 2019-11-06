@@ -1,0 +1,23 @@
+img {
+    width: 100%;
+}
+
+.row {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.chosen {
+    border: 1px solid cyan;
+}
+
+.food-item {
+    display: flex;
+    align-items: center;
+    border: 1px solid grey;
+    padding: 2rem;
+    justify-content: space-between;
+}
+.food-image {
+    max-width: 150px;
+}
